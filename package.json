@@ -26,6 +26,7 @@
     "mochawesome": "^4.1.0",
     "mochawesome-merge": "^4.0.0",
     "mochawesome-report-generator": "^4.1.0",
+    "prettier": "2.7.1",
     "stylelint": "^13.8.0",
     "stylelint-config-standard": "^20.0.0"
   }

@@ -15,20 +15,18 @@ header {
 
 }
 
-.lado-esquerdo{
+.lado-esquerdo {
     width: 750px;
     position: absolute;
     margin-top: 55px;
-    border: 1px solid black;
 }
 
 
-.lado-direito{
+.lado-direito {
     width: 750px;
     position: absolute;
     margin-top: -830px;
     margin-left: 1000px;
-    border: 1px solid black;
 }
 
 #minha_foto {
