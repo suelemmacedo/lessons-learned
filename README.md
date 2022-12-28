@@ -5,10 +5,10 @@
 ---   
 
 <img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
-<p></p>
+<p>Primeiro projeto realizado no módulo 1 da Trybe. Neste, foi desenvolvido um site com informações de aprendizados ao longo de três blocos.
+O site contém elementos posicionados e estilizados, com semântica apropriada.</p>
 
-Primeiro projeto realizado no módulo 1 da Trybe. Neste, foi desenvolvido um site com informações de aprendizados ao longo de três blocos.
-O site contém elementos posicionados e estilizados, com semântica apropriada.
+
 ---   
 
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>
