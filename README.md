@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 <img src="https://img.shields.io/static/v1?label=Projeto&message=Lessons Learned&color=red&style=for-the-badge&logo=github"/>
 
