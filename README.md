@@ -4,7 +4,7 @@
 
 ---   
 
-<img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/static/v1?label=Finalidade&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
 <p>Primeiro projeto realizado no módulo de Fundamentos da Trybe. Neste, foi desenvolvido um site com informações de aprendizados ao longo de três blocos.
 O site contém elementos posicionados e estilizados, com semântica apropriada.</p>
 
