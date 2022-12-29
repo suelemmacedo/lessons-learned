@@ -11,7 +11,7 @@ O site contém elementos posicionados e estilizados, com semântica apropriada.<
 
 ---   
 
-<img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=mustard&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=yellow&style=for-the-badge&logo=github"/>
 <p></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
