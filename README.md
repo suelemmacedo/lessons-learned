@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 <img src="https://img.shields.io/static/v1?label=Link&message=Lessons Learned&color=purple&style=for-the-badge&logo=github"/>
 
-### <b> <a href="https://suelemmacedo.github.io/lessons-learned/">Lessons Learned</a> </b> <br>
+### <b> <a href="https://suelemmacedo.github.io/lessons-learned/">Pixels Art</a> </b> <br>
 
 </div>
 
